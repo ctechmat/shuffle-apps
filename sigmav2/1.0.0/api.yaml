@@ -16,7 +16,6 @@ actions:
         required: false
         options:
           - default
-          - json
         schema:
           type: string
       - name: file_id
@@ -36,7 +35,6 @@ actions:
         required: false
         options:
           - default
-          - json
         schema:
           type: string
       - name: file_id
@@ -300,7 +298,6 @@ actions:
         required: false
         options:
           - default
-          - json
         schema:
           type: string
       - name: file_id
@@ -320,7 +317,6 @@ actions:
         required: false
         options:
           - default
-          - json
         schema:
           type: string
       - name: file_id
