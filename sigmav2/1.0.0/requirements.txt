@@ -1,0 +1,2 @@
+sigma-cli==1.0.5
+shuffle_sdk==0.0.11
